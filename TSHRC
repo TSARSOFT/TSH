@@ -1,0 +1,2 @@
+motd='Welcome to TSARSOFT TSH!\nUse \'help\' for usage.\nEnjoy!'
+print(motd)
